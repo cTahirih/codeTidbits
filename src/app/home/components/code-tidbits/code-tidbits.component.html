@@ -1,0 +1,14 @@
+<div class="row d-flex justify-content-center">
+  <div class="card col-8 col-sm-6 col-md-3 mb-3 mx-md-1" *ngFor="let elm of data">
+    <div class="mt-3">
+      <img [src]="elm.urlImg"  class="card-img-top" alt="Images CodeTidbits">
+    </div>
+    <div class="card-body px-0">
+      <h5 class="card-title">{{ elm.title }}</h5>
+      <div>
+        <a href="https://github.com/cTahirih" class="card-link">By: cTahirih</a>
+      </div>
+    </div>
+  </div>
+
+</div>
