@@ -1,5 +1,7 @@
 # CodeTidbits
 
+![Hacktoberfest](./src/assets/images/home/hbf.svg);
+
 Last year was the first time I participated in Hacktoberfest, I made more than five contributions and I was very happy.
 This year I not only want to contribute, so I created this repository with something basic to grow and be a super project.
 
@@ -15,7 +17,7 @@ A month-long celebration from October sponsored by [Digital Ocean](https://hackt
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project
-Here are 3 quick and painless ways to contribute to this project:
+Here are 3 quick and painless ways to contribute to this project, You do not need to be an expert in Angular :blush: :
 
 * Add your name to the `CONTRIBUTORS.md` file
 * Add a snippet code or a simple "Hello,  world" using [Carbon](https://carbon.now.sh/)
@@ -24,7 +26,7 @@ Here are 3 quick and painless ways to contribute to this project:
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
-* Fork this repository branch master (Click the Fork button in the top right of this page, click your Profile Image)
+* Fork this repository branch ``master`` (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
 ```markdown
@@ -46,9 +48,9 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-* Create a new pull request branch master from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Create a new pull request in branch ``master`` from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
+* __Star this repository__ :star: if you had fun!
 
 ## Choose from these tasks
 ### 1. Add your name
@@ -69,16 +71,23 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ### 3. Add improve to the page
 
-You can improve to the page, adding routing, a search bar, etc.
+You can improve to the page, adding routing, a search bar, etc. 
 
-## Development server
+## About the project
+### Workspace
+After cloning the repository and starting the project, you will need to have [Node](https://nodejs.org/en/), [npm](https://www.npmjs.com/get-npm), [Angular CLI](https://cli.angular.io/) installed.
+If you already have it ready, you just need to go to the folder and install the packages.
+* Run this command to install dependencies, in your console: ``npm install``
+* Start project using this command: ``ng serve --open``
+
+### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+### Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Running unit tests
+### Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
