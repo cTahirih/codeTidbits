@@ -1,0 +1,13 @@
+
+@import './colors';
+@import './_normalize';
+@import './_variables';
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap/scss/bootstrap-grid.scss";
+
+body {
+  font-family: 'robotoregular', sans-serif;
+  background-color: $gray_light;
+}
+
+

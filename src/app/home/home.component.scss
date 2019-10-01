@@ -1,0 +1,10 @@
+@import "../../styles";
+
+.navbar-blue {
+  background-color: $blue-dark;
+  & span {
+    color: $pink;
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
