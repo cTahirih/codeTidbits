@@ -8,3 +8,21 @@
     font-weight: bold;
   }
 }
+
+.jumbotron {
+  color: $blue-light;
+}
+
+.card-box-image {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bt-pink {
+  background-color: $pink;
+  color: #fff;
+  &:hover {
+    color: $blue-light;
+  }
+}

@@ -1,7 +1,12 @@
-
+@import "../../../../styles";
 .htb{
-    display: flex;
-    justify-content: center;
-    color: #a11ec6;
+  color: #a11ec6;
+  font-size: 18px;
+  @include media-breakpoint-up(md) {
     font-size: 40px;
   }
+}
+
+.height-box-animated {
+  height: 60px;
+}
