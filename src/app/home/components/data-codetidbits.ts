@@ -6,7 +6,7 @@ export const dataCodeTidBits: any[] = [
     urlImg: './assets/images/css_code_1.png',
     urlGithub: 'https://github.com/cTahirih',
     nickName: 'cTahirih'
-  }
+  },
   /* EXAMPLE
     {
     id: 2,
@@ -17,4 +17,12 @@ export const dataCodeTidBits: any[] = [
     nickName: 'YourNickName'
   }
   * */
+  {
+    id: 2,
+    title: "Simple 'ng-if' example",
+    type: 'JS',
+    urlImg: './assets/images/babel78-code.png',
+    urlGithub: 'https://github.com/Babel78',
+    nickName: 'Babel78'
+  }
 ];

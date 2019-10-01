@@ -8,11 +8,15 @@ import { dataCodeTidBits } from '../data-codetidbits';
 })
 export class CodeTidbitsComponent implements OnInit {
   data: any;
+  isHacktoberfest: boolean;
   constructor() {
     this.data = dataCodeTidBits;
+    this.isHacktoberfest = true;
   }
 
   ngOnInit() {
+    setInterval(()=>{
+      this.isHacktoberfest = !this.isHacktoberfest
+    },5000)
   }
-
 }
