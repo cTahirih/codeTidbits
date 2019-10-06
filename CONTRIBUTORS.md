@@ -8,3 +8,8 @@
 - Place: Perú, Lima
 - Bio: FullStack Developer - DevOps. Basketball - Piano - Workship.
 - GitHub: [babel78](https://github.com/Babel78)
+
+#### Name: Carlos Ramírez
+- Place: Santa Rosa de Cabal, Risaralda - Colombia
+- Bio: FullStack Developer - Airplanes - Music.
+- GitHub: [calbertora](https://github.com/calbertora)
