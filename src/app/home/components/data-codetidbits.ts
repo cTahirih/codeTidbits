@@ -31,6 +31,11 @@ export const dataCodeTidBits: any[] = [
     type: 'JS',
     urlImg: './assets/images/While(love).png',
     urlGithub: 'https://github.com/realkelvinperez',
-    nickName: 'realkelvinperez'
+    nickName: 'realkelvinperez',
+    title: "Instagram GraphQl using Python",
+    type: 'Python',
+    urlImg: './assets/images/python.png',
+    urlGithub: 'https://github.com/aravindha1234u',
+    nickName: 'T3cH_W1z4rD'
   }
 ];
