@@ -24,5 +24,13 @@ export const dataCodeTidBits: any[] = [
     urlImg: './assets/images/babel78-code.png',
     urlGithub: 'https://github.com/Babel78',
     nickName: 'Babel78'
+  },
+  {
+    id: 3,
+    title: "Instagram GraphQl using Python",
+    type: 'Python',
+    urlImg: './assets/images/python.png',
+    urlGithub: 'https://github.com/aravindha1234u',
+    nickName: 'T3cH_W1z4rD'
   }
 ];
