@@ -47,6 +47,14 @@
   }
 }
 
+.font-size-htb {
+  color: $dark-pink;
+  font-size: 18px;
+  @include media-breakpoint-up(md) {
+    font-size: 40px;
+  }
+}
+
 .box-img-header {
   width: 60px;
   height: auto;

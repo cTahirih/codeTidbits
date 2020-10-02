@@ -17,6 +17,6 @@ export class CodeTidbitsComponent implements OnInit {
   ngOnInit() {
     setInterval(()=>{
       this.isHacktoberfest = !this.isHacktoberfest
-    },5000)
+    },3000)
   }
 }
