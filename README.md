@@ -33,13 +33,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/cTahirih/code-tidbits.git
-```
-
-- Create a branch
-
-```markdown
-git checkout -b branch-name
+git clone https://github.com/[YOUR_USER_NAME]/code-tidbits.git
 ```
 
 - Make your changes (choose from any task below)
@@ -48,7 +42,7 @@ git checkout -b branch-name
 ```markdown
 git add .
 git commit -m 'Commit message'
-git push origin branch-name
+git push origin master
 ```
 
 - Create a new pull request in branch `master` from your forked repository (Click the `New Pull Request` button located at the top of your repo)
