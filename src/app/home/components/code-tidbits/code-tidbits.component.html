@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-12 height-box-animated d-flex align-items-center justify-content-center">
-    <div class="htb" *ngIf="isHacktoberfest">HAPPY HACKTOBERFEST 2019</div>
+    <div class="font-size-htb" *ngIf="isHacktoberfest">HAPPY HACKTOBERFEST 2020</div>
   </div>
 </div>
 <div class="row d-flex justify-content-center">
@@ -10,8 +10,11 @@
     </div>
     <div class="card-body px-0">
       <h5 class="card-title">{{ elm.title }}</h5>
-      <div>
-        <a href="{{elm.urlGithub}}" class="card-link">{{ elm.nickName }}</a>
+      <div class="text-center">
+        <a href="{{elm.urlGithub}}" class="btn bt-pink-outline d-flex align-items-center" target="_blank">
+          <div class="img-button d-inline-block mx-3"><img src="assets/images/home/github-brands.svg" alt="github" class="img-fluid"></div>
+          {{ elm.nickName }}
+        </a>
       </div>
     </div>
   </div>

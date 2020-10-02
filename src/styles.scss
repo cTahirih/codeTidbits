@@ -1,1 +1,84 @@
 @import "assets/styles/styles";
+
+.bg-blue {
+  background-color: $blue-dark;
+}
+
+.bg-pink {
+  background-color: $pink;
+}
+
+.bg-dark-pink {
+  background-color: $dark-pink;
+}
+
+.color-pink {
+  color: $pink;
+}
+
+.color-dark-pink {
+  color: $dark-pink;
+}
+
+.color-dark-blue {
+  color: $blue-dark;
+}
+
+/*
+* buttons
+*/
+
+
+.bt-pink {
+  background-color: $pink;
+  color: #fff;
+  &:hover {
+    color: $blue-dark;
+  }
+}
+
+.bt-pink-outline {
+  background-color: #fff;
+  color: $pink;
+  border-color: $pink;
+  &:hover {
+    background-color: $pink;
+    color: #fff;
+  }
+}
+
+/*
+* Responsive class
+*/
+.font-size-header {
+  font-size: 25px;
+  @include media-breakpoint-up(md) {
+    font-size: 32px;
+  }
+}
+
+.font-size-htb {
+  color: $dark-pink;
+  font-size: 18px;
+  @include media-breakpoint-up(md) {
+    font-size: 40px;
+  }
+}
+
+.box-img-header {
+  width: 60px;
+  height: auto;
+  @include media-breakpoint-up(md) {
+    width: 72px;
+  }
+}
+
+.box-img-home {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  @include media-breakpoint-up(md) {
+    width: 300px;
+  }
+}

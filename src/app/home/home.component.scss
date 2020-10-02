@@ -1,28 +1,6 @@
-@import "../../styles";
-
-.navbar-blue {
-  background-color: $blue-dark;
-  & span {
-    color: $pink;
-    font-size: 20px;
-    font-weight: bold;
-  }
-}
-
 .jumbotron {
-  color: $blue-light;
+  min-height: 88vh;
 }
 
-.card-box-image {
-  width: 250px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-.bt-pink {
-  background-color: $pink;
-  color: #fff;
-  &:hover {
-    color: $blue-light;
-  }
-}
+
