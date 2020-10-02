@@ -23,7 +23,13 @@
 - GitHub: [calbertora](https://github.com/realkelvinperez)
 
 #### Name: Aravindha Hariharan
+
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [aravindha1234u](https://github.com/aravindha1234u)
 
+#### Name: Phyllipe Bezerra
+
+- Place: Maceió, Alagoas - Brazil
+- Bio: Android and FullStack Developer focused on accessibility impact
+- GitHub: [pmba](https://github.com/pmba)
