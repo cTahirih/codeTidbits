@@ -33,3 +33,9 @@
 - Place: Maceió, Alagoas - Brazil
 - Bio: Android and FullStack Developer focused on accessibility impact
 - GitHub: [pmba](https://github.com/pmba)
+
+#### Name: Victor Castro
+
+- Place: Perú, Arequipa
+- Bio: MERN Full Stack Web Apprentice. JavaScript Lover. Junior Web Developer. Learning all the time. Coffee lover.
+- GitHub: [soyvikman](https://github.com/soyvikman)
