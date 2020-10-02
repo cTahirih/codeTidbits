@@ -4,10 +4,11 @@
 @import './_variables';
 @import "~bootstrap/scss/bootstrap.scss";
 @import "~bootstrap/scss/bootstrap-grid.scss";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 body {
-  font-family: 'robotoregular', sans-serif;
-  background-color: $gray_light;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: $gray_light!important;
 }
 
 
