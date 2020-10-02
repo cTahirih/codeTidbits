@@ -19,7 +19,7 @@ export const dataCodeTidBits: any[] = [
   },
   {
     id: 2,
-    title: "Simple 'ng-if' example",
+    title: 'Simple \'ng-if\' example',
     type: 'JS',
     urlImg: './assets/images/babel78-code.png',
     urlGithub: 'https://github.com/Babel78',
@@ -27,12 +27,15 @@ export const dataCodeTidBits: any[] = [
   },
   {
     id: 3,
-    title: "While(love) is True",
+    title: 'While(love) is True',
     type: 'JS',
     urlImg: './assets/images/While(love).png',
     urlGithub: 'https://github.com/realkelvinperez',
-    nickName: 'realkelvinperez',
-    title: "Instagram GraphQl using Python",
+    nickName: 'realkelvinperez'
+  },
+  {
+    id: 4,
+    title: 'Instagram GraphQl using Python',
     type: 'Python',
     urlImg: './assets/images/python.png',
     urlGithub: 'https://github.com/aravindha1234u',
