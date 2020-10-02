@@ -37,6 +37,16 @@
   }
 }
 
+.bt-pink-outline {
+  background-color: #fff;
+  color: $pink;
+  border-color: $pink;
+  &:hover {
+    background-color: $pink;
+    color: #fff;
+  }
+}
+
 /*
 * Responsive class
 */
